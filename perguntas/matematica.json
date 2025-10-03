@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "questao": "Quanto é 5 + 7?",
+    "opcao": ["10", "11", "12", "13"],
+    "resposta": "12",
+    "nivel": 1
+  },
+  {
+    "id": 2,
+    "questao": "Quanto é 15 - 6?",
+    "opcao": ["8", "11", "9", "13"],
+    "resposta": "9",
+    "nivel": 1
+  },
+  {
+    "id": 3,
+    "questao": "Quanto é 3 x 4?",
+    "opcao": ["55", "7", "-1", "12"],
+    "resposta": "12",
+    "nivel": 1
+  },
+  {
+    "id": 4,
+    "questao": "Quanto é 24 ÷ 6?",
+    "opcao": ["6", "11", "9", "4"],
+    "resposta": "4",
+    "nivel": 1
+  },
+  {
+    "id": 5,
+    "questao": "Qual fração é equivalente a 1/2?",
+    "opcao": ["2/4", "3/6", "4/8", "Todas as anteriores"],
+    "resposta": "Todas as anteriores",
+    "nivel": 1
+  },
+  {
+    "id": 6,
+    "questao": "Quanto é 10% de 50?",
+    "opcao": ["5", "10", "15", "20"],
+    "resposta": "5",
+    "nivel": 1
+  },
+  {
+    "id": 7,
+    "questao":"Qual é o próximo número da sequência: 2, 4, 6, …?",
+    "opcao":["10", "8", "15", "7"],
+    "resposta": "8",
+    "nivel": 1
+  }
+
+]
